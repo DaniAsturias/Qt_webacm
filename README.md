@@ -2,7 +2,9 @@
 
 ## Introduction
 Webcam framework that uses PyQt5 and OpenCV3 to apply filters to the frames recorded from the cam.
-![alt text](https://github.com/DaniAsturias/Qt_webcam/edit/master/iamge.png)
+![GitHub Logo](/image.png)
+
+
 
 ## Dependencies
 
